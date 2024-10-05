@@ -1,0 +1,8 @@
+<h1>Message board homepage</h1>
+<ul>
+    {% for post in post_list %}
+    <li><h3>{{ post.topic }}<h3></li>
+    {{ post.text }}
+    <hr>
+    {% endfor %}
+</ul>
