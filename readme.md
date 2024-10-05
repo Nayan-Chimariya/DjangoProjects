@@ -10,7 +10,7 @@ _Concepts to learn:_
 2. Class-based views and templates
 3. Write tests
 
-#### Project 2 - Pages App
+#### Project 2 - Message Board App
 
 _Concepts to learn:_
 
